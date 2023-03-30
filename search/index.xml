@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search on Yixuan&#39;s Breezy Life</title>
-    <link>https://hydjan.github.io/yixuan/search/</link>
+    <link>https://yixuan.hydjan.com/search/</link>
     <description>Recent content in Search on Yixuan&#39;s Breezy Life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hydjan.github.io/yixuan/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://yixuan.hydjan.com/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
